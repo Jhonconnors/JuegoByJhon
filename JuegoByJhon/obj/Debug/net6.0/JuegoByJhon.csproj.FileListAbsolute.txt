@@ -1,0 +1,15 @@
+C:\Users\Connors\source\repos\JuegoByJhon\JuegoByJhon\bin\Debug\net6.0\JuegoByJhon.exe
+C:\Users\Connors\source\repos\JuegoByJhon\JuegoByJhon\bin\Debug\net6.0\JuegoByJhon.deps.json
+C:\Users\Connors\source\repos\JuegoByJhon\JuegoByJhon\bin\Debug\net6.0\JuegoByJhon.runtimeconfig.json
+C:\Users\Connors\source\repos\JuegoByJhon\JuegoByJhon\bin\Debug\net6.0\JuegoByJhon.dll
+C:\Users\Connors\source\repos\JuegoByJhon\JuegoByJhon\bin\Debug\net6.0\JuegoByJhon.pdb
+C:\Users\Connors\source\repos\JuegoByJhon\JuegoByJhon\obj\Debug\net6.0\JuegoByJhon.csproj.AssemblyReference.cache
+C:\Users\Connors\source\repos\JuegoByJhon\JuegoByJhon\obj\Debug\net6.0\JuegoByJhon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Connors\source\repos\JuegoByJhon\JuegoByJhon\obj\Debug\net6.0\JuegoByJhon.AssemblyInfoInputs.cache
+C:\Users\Connors\source\repos\JuegoByJhon\JuegoByJhon\obj\Debug\net6.0\JuegoByJhon.AssemblyInfo.cs
+C:\Users\Connors\source\repos\JuegoByJhon\JuegoByJhon\obj\Debug\net6.0\JuegoByJhon.csproj.CoreCompileInputs.cache
+C:\Users\Connors\source\repos\JuegoByJhon\JuegoByJhon\obj\Debug\net6.0\JuegoByJhon.dll
+C:\Users\Connors\source\repos\JuegoByJhon\JuegoByJhon\obj\Debug\net6.0\refint\JuegoByJhon.dll
+C:\Users\Connors\source\repos\JuegoByJhon\JuegoByJhon\obj\Debug\net6.0\JuegoByJhon.pdb
+C:\Users\Connors\source\repos\JuegoByJhon\JuegoByJhon\obj\Debug\net6.0\JuegoByJhon.genruntimeconfig.cache
+C:\Users\Connors\source\repos\JuegoByJhon\JuegoByJhon\obj\Debug\net6.0\ref\JuegoByJhon.dll
